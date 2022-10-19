@@ -1,0 +1,53 @@
+body{
+    margin: 50px;
+    text-align: center;
+}
+
+h1{
+    font-size: 70px;
+}
+
+h2{
+    font-size: 50px;
+    margin-bottom: 0;
+}
+
+p{
+    font-size: 30px;
+}
+
+a{
+    color: black;
+    font-size: 30px;
+    text-decoration: none;
+    
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+a:hover{
+    color: grey;
+    text-decoration: underline;
+    animation-duration: 200ms;
+}
+
+ul{
+    padding-inline-start: 0px !important;
+}
+
+li{
+    font-size: 30px;
+    list-style-position: inside;
+    
+}
+
+hr{
+    height: 2px;
+    background-color: black;
+    width: 50%;
+    margin-bottom: 60px;
+}
+
+footer{
+    margin-top: 80px;
+}
